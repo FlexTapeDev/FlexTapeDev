@@ -6,6 +6,6 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=FlexTapeDev&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=FlexTapeDev&icon=5&color=8)](https://visitcount.itsvg.in)
 
 ---
