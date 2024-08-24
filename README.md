@@ -3,7 +3,4 @@
 <br clear="both">
 
 ###
-
-[![](https://visitcount.itsvg.in/api?id=FlexTapeDev&icon=5&color=8)](https://visitcount.itsvg.in)
-
 ---
